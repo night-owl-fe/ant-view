@@ -1,0 +1,32 @@
+{
+  "name": "ant-view",
+  "description": "",
+  "author": "WangLei",
+  "license": "MIT",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "wag dev",
+    "start": "wag start",
+    "build": "wag build",
+    "test": "wag test"
+  },
+  "keywords": [
+    "ant-view",
+    "ant",
+    "antd",
+    "vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:night-owl-fe/ant-view.git"
+  },
+  "bugs": {
+    "url": "git@github.com:night-owl-fe/ant-view.git/issues"
+  },
+  "dependencies": {
+    "vue": "2.2.1"
+  },
+  "devDependencies": {
+    "wag-cli": "2.2.1"
+  }
+}
